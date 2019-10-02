@@ -1,5 +1,11 @@
 ---
 title: "About me"
+firstname/surname: Quentin Adant
+teacher's name: Ingrid Van Lancker
+class: BAB2.bio.
+group: group 2
+academicyear: 2019-2020
+date: 02-10-2019
 ---
 
 
