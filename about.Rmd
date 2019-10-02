@@ -3,10 +3,10 @@ title: "About me"
 
 ---
 
-Quentin ADANT 
+Quentin **ADANT** 
 
-teacher's name: Ingrid VAN LANCKER
+teacher's name: Ingrid **VAN LANCKER**
 
-Group 2
+**Group 2**
 
-academic year 2019-2020
+academic year **2019-2020**
