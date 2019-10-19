@@ -25,5 +25,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Analysis :
 
-
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | (insert date)                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
