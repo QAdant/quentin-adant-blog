@@ -15,4 +15,15 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Source :
+
+# Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+
+
+# Analysis :
+
+
 
