@@ -25,18 +25,18 @@ URL of the article : (https://www.sciencemag.org/news/2019/09/mountains-hidden-d
 
 | Word from text | Synonym/definition | French translation |
 |----------------|--------------------|--------------------|
-|curled          |                    |enroulé             |
-|festooned       |                    |festonné            |
-|spindly         |                    |en forme de broche  |
+|curled          |curved/spiral shaped|enroulé             |
+|festooned       |adorned with chains, garlands or other decorations|festonné            |
+|spindly         |pin-shaped          |en forme de broche  |
 |clung           |fixed               |accroché            |
-|bumpy           |                    |cahoteux            |
+|bumpy           |(adj) (of a surface) uneven, with many patches raised above the rest|cahoteux            |
 |looming         |imminent            |imminent            |
-|yielded         |                    |aboutir             |
-|buffeted        |                    |bouleversé          |
+|yielded         |(past tense of yield) produce or generate (results, gain, financial return, etc.)|aboutir             |
+|buffeted        |(past tense of buffet) strike repeatedly and violently; batter|bouleversé          |
 |swirl           |whirlwind           |tourbillon          |
 |craggy          |steep               |escarpé             |
 |protrusions     |relief/landform     |saillie/relief      |
-|muck            |                    |boue (plutôt 'vase' dans ce cas)|
+|muck            |dirt, rubbish, or waste matter|vaseux, sédimenteux (en parlant du fond marin dans ce cas-ci)|
 |glimpses to     |overview of         |aperçu de           |
 
 ## Analysis :
