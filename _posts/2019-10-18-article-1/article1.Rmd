@@ -5,7 +5,7 @@ author:
 date: 10-18-2019
 categories:
   - track
-preview:
+preview: images/Seamount_Biodiversity.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,11 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![ [Credit: JORDI CHIAS/MINDEN PICTURES](https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/ma_0913_Mountains_Seamount_biodiversity_700px.jpg?itok=Em8gdRlS)](images/Seamount_Biodiversity.jpg)
+
 ## Source :
+
+URL of the article : (https://www.sciencemag.org/news/2019/09/mountains-hidden-deep-sea-are-biological-hot-spots-will-mining-ruin-them)
 
 ## Vocabulary :
 
