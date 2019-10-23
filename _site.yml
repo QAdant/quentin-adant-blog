@@ -14,5 +14,6 @@ navbar:
 base_url: http://QAdant.github.io/quentin-adant-blog/
 collections:
     posts:
+      disqus: https-qadant-github-io-quentin-adant-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
