@@ -1,8 +1,8 @@
 ---
 title: "Article 2"
 author:
-  - name: 
-date: 
+  - name: Niels W. L. Van Steenkiste, India Stephenson1, María Herranz, Filip Husnik, Patrick J. Keeling and Brian S. Leander
+date: 09-17-2019
 categories:
   - track
 preview: 
@@ -15,26 +15,35 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![commentimage](imagelink)
+![[Sacoglossan sea slug](https://en.wikipedia.org/wiki/Kleptoplasty#/media/File:Costasiella_Kuroshimae_(19080120525)_(2).jpg)](images2/SeaSlug.jpg)
 
 ## Source :
 
-URL of the article : (12 September 2019)
-(link)
+URL of the article : (17 July 2019)
+(https://advances.sciencemag.org/content/5/7/eaaw4337)
 
 ## Vocabulary :
 
 | Word from text | Synonym/definition | French translation |
 |----------------|--------------------|--------------------|
-
+| to harbor |  | abriter |
+| symbionts |  | symbiotes |
+| remainder |  | le reste |
+| kleptoplasty |  | kleptoplastie |
+| sea slug |  | limace de mer |
+| thorough |  | approfondi |
+| atrial organs |  | organes auriculaires |
+| gut |  | intestin |
+| to infer to |  | inférer/déduire |
+|
 
 ## Analysis :
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |                                                        |
-| General topic?               |     |
+| Researchers                  | Niels W. L. Van Steenkiste, India Stephenson1, María Herranz, Filip Husnik, Patrick J. Keeling and Brian S. Leander |
+| Published in?                |  17 July 2019                               |
+| General topic?               | endosymbiosis between flatworms and diatoms |
 | Procedure/what was examined? |  |
 | Conclusions/discovery?       |  |
 | Remaining questions?         |  |

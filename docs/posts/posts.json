@@ -15,5 +15,22 @@
     ],
     "preview": "posts/2019-10-18-article-1/images/Seamount_Biodiversity.jpg",
     "last_modified": "2019-10-23T14:43:47+02:00"
+  },
+  {
+    "path": "posts/2019-11-01-article-2/",
+    "title": "Article 2",
+    "description": {},
+    "author": [
+      {
+        "name": "Niels W. L. Van Steenkiste, India Stephenson1, María Herranz, Filip Husnik, Patrick J. Keeling and Brian S. Leander",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-17",
+    "categories": [
+      "track"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-01T18:30:34+01:00"
   }
 ]
