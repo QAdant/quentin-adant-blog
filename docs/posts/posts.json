@@ -1,24 +1,7 @@
 [
   {
-    "path": "posts/2019-10-18-article-1/",
-    "title": "Article 1 : The seamounts",
-    "description": {},
-    "author": [
-      {
-        "name": "Quentin Adant",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-18",
-    "categories": [
-      "track"
-    ],
-    "preview": "posts/2019-10-18-article-1/images/Seamount_Biodiversity.jpg",
-    "last_modified": "2019-10-23T14:43:47+02:00"
-  },
-  {
     "path": "posts/2019-11-01-article-2/",
-    "title": "Article 2",
+    "title": "Article 2 : A new case of kleptoplasty discovered",
     "description": {},
     "author": [
       {
@@ -30,7 +13,24 @@
     "categories": [
       "track"
     ],
-    "preview": {},
-    "last_modified": "2019-11-01T18:30:34+01:00"
+    "preview": "posts/2019-11-01-article-2/images2/SeaSlug.jpg",
+    "last_modified": "2019-11-02T15:21:39+01:00"
+  },
+  {
+    "path": "posts/2019-10-18-article-1/",
+    "title": "Article 1 : The seamounts",
+    "description": {},
+    "author": [
+      {
+        "name": "Warren Cornwall",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-12",
+    "categories": [
+      "track"
+    ],
+    "preview": "posts/2019-10-18-article-1/images/Seamount_Biodiversity.jpg",
+    "last_modified": "2019-11-02T15:22:30+01:00"
   }
 ]
