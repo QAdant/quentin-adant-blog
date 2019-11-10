@@ -1,0 +1,28 @@
+---
+title: "My English activity log"
+author:
+  - name: "Quentin Adant"
+date: "11-10-19"
+categories:
+  - English activity log
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+-13 October 2019 : I watched "Joker" the film, I really recommend it.
+
+-20 October 2019 : I watched the Star Wars's parody, "Spaceballs". I recommend it to those who have seen the first trilogy (the oldest one).
+
+-22 October 2019 : From now on, I will watch all the films I have already seen in English. Actually, I have been doing it for a long time now...
+
+
+
+
+
+
+
