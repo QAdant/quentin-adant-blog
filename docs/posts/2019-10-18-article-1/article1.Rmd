@@ -1,0 +1,54 @@
+---
+title: "Article 1 : The seamounts"
+author:
+  - name: Warren Cornwall
+date: 09-12-2019
+categories:
+  - track
+preview: images/Seamount_Biodiversity.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![ [Credit: JORDI CHIAS/MINDEN PICTURES](https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/ma_0913_Mountains_Seamount_biodiversity_700px.jpg?itok=Em8gdRlS)](images/Seamount_Biodiversity.jpg)
+
+
+## Source :
+
+URL of the article : (12 September 2019) (https://www.sciencemag.org/news/2019/09/mountains-hidden-deep-sea-are-biological-hot-spots-will-mining-ruin-them)
+
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+|curled          |curved/spiral shaped|enroulé             |
+|festooned       |adorned with chains, garlands or other decorations|festonné            |
+|spindly         |pin-shaped          |en forme de broche  |
+|clung           |fixed               |accroché            |
+|bumpy           |(adj) (of a surface) uneven, with many patches raised above the rest|cahoteux            |
+|looming         |imminent            |imminent            |
+|yielded         |(past tense of yield) produce or generate (results, gain, financial return, etc.)|aboutir             |
+|buffeted        |(past tense of buffet) strike repeatedly and violently; batter|bouleversé          |
+|swirl           |whirlwind           |tourbillon          |
+|craggy          |steep               |escarpé             |
+|protrusions     |relief/landform     |saillie/relief      |
+|muck            |dirt, rubbish, or waste matter|vaseux, sédimenteux (en parlant du fond marin dans ce cas-ci)|
+|glimpses to     |overview of         |aperçu de           |
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Murton (scientist in the MarineE-tech campaign), Lea-Anne Henry (marine ecologist from University of Edinburgh), Les Watling (biological oceanographer from University of Honolulu in Hawaï), Mikhail Zubkov (microbial biologist from the Scottish Marine Institute in Dunbeg) |
+| Published in?                | 09-12-2019                                                       |
+| General topic?               | the seamounts : Is the mining of these oases of life wrong or not ?    |
+| Procedure/what was examined? | The researchers used submarine to take bits of mineral and photos/videos of sea life on a seamount, study how the crust forms. They used the images to find eventual rare species living down there, and try to know how the mining would affect the ecosystem. |
+| Conclusions/discovery?       | the crust forms depending on the ocean current and the tide. the crust is thicker on the edge of the summit than on its center. It seems like more the conditions are favorable to the growth of the crust, more it is for the creatures to live there. There are a lot of species that warrentee protection and all the indicator spacies are pretty well so far. The sediments that the mining could blow up should'nt damage the ecosystem so much : it would'nt choke the sealife and the toxicity of the mineral would be neutralized by its structure. |
+| Remaining questions?         | But even with tose results, we still can't know how the mining would damage the ocean ecosystems. Some mining permittings has been already given to some countries and the exploitation might begin in the 2030s. The conflict between the conservation of these seamounts and their exploitation is not over yet. |
+

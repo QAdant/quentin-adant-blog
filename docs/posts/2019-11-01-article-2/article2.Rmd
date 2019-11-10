@@ -1,0 +1,54 @@
+---
+title: "Article 2 : A new case of kleptoplasty discovered"
+author:
+  - name: Niels W. L. Van Steenkiste, India Stephenson1, María Herranz, Filip Husnik, Patrick J. Keeling and Brian S. Leander
+date: 09-17-2019
+categories:
+  - track
+preview: images2/SeaSlug.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![[Sacoglossan sea slug](https://en.wikipedia.org/wiki/Kleptoplasty#/media/File:Costasiella_Kuroshimae_(19080120525)_(2).jpg)](images2/SeaSlug.jpg)
+
+## Source :
+
+URL of the article : (17 July 2019)
+(https://advances.sciencemag.org/content/5/7/eaaw4337)
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+| to harbor | to hide/to protect | abriter |
+| symbionts | when two life beings collaborate to survive they are called symbionts | symbiotes |
+| remainder | the rest | le reste |
+| kleptoplasty | endosymbioses form where the host stores the plastids of its endosymbiont | kleptoplastie |
+| sea slug | like a sea snail but without any shell | limace de mer |
+| thorough | profound/exhaustive | approfondi |
+| atrial organs | organs relative to the ear/part of the body that allows to hear | organes auriculaires |
+| gut | last organ of the digestive tract | intestin |
+| to infere to | to inhibit/to obstruct | inférer/déduire |
+
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Niels W. L. Van Steenkiste, India Stephenson1, María Herranz, Filip Husnik, Patrick J. Keeling and Brian S. Leander |
+| Published in?                |  17 July 2019                               |
+| General topic?               | Endosymbiosis between flatworms and diatoms |
+| Procedure/what was examined? | The researchers fished flatworms in natural environment and imaged them. They extracted genomic DNA from them and the diatoms to sequencing it. Same thing for RNA using a RNA-sequences library preparation. They made molecular phylogenetic analyses and they made a test : they let 60 freshly collected *B.solaris* divided in 3 treatment groups starved. |
+| Conclusions/discovery?       | They discovered that, unlike the other acoel animal, these flatworms are plastids stolen from their prey cells rather than the whole prey cells. in short-term starvation, all individuals have the same survival rates even with photosynthesis inhibitors. It is only the second case of kleptoplasty in the entire animal's tree and it is the first case involving the diatoms. |
+| Remaining questions?         | They are still unable to tell which diatoms are at the origin of the sequestered plastids. lots of mechanics are still unclear. A longer starvation experiment should answer some other questions about the survival rates after more than two weeks. |
+
+
+
+
+

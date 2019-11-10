@@ -1,8 +1,8 @@
 ---
 title: "My English activity log"
 author:
-  - name: "Quentin Adant"
-date: "11-10-19"
+  - name: Quentin Adant
+date: 11-10-19
 categories:
   - English activity log
 output:
