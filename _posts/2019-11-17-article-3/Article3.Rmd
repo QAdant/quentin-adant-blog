@@ -1,0 +1,40 @@
+---
+title: "Article 3 :"
+author:
+  - name: 
+date: 
+categories:
+  - track
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![commentimage](imagelink)
+
+## Source :
+
+URL of the article : (12 September 2019)
+(link)
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |                                                        |
+| General topic?               |     |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
