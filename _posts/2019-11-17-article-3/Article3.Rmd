@@ -1,11 +1,11 @@
 ---
-title: "Article 3 : "
+title: "Article 3 : coastal fauna protected by oxygen supersaturation from the global warming"
 author:
   - name: Folco Giomi, Alberto Barausse, Carlos M. Duarte, Jenny Booth, Susana Agusti, Vincent Saderne, Andrea Anton, Daniele Daffonchio and Marco Fusi
 date: 09-04-2019
 categories:
   - track
-preview: 
+preview: pictures/RedSea1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![commentimage](imagelink)
+![Coral reef in Red Sea ](https://www.tripsavvy.com/thmb/-_imdU4O_AVUyI5vtqbYwOFJfN4=/950x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-547695899-580dcef13df78c2c73ed2b0a.jpg)
 
 ## Source :
 
@@ -26,24 +26,25 @@ URL of the article : (4th September 2019)
 
 | Word from text | Synonym/definition | French translation |
 |----------------|--------------------|--------------------|
-| acute |  |  |
+| acute | (of an unpleasant or unwelcome situation or phenomenon) present or experienced to a severe or intense degree. | aigu |
 | diel | denoting or involving a period of twenty-four hours. | sur un cycle de 24 heures |
 | to fulfill | to carry out/ to accomplish | accomplir |
 | threshold | lower limit | seuil |
 | ectotherm (animal) | cold-blooded animal | animal à sang froid |
 | lagged | showing a delayed effect. | en retard |
 | meadow | field | prairie |
-| normoxic |  |  |
+| normoxic/hypoxic/hyperoxic | states of oxygen saturation (normal/low/high) | normalement/peu/fort saturé en oxygène |
 | depletion | reduction in the number or quantity of something. | épuisement / réduction |
-| 
+| framework | a basic structure underlying a system, concept, or text. | structure/squelette |
+| to occur | take place / come to mind | arriver / se produire |
 
 ## Analysis :
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |                                                        |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| Researchers                  | Folco Giomi, Alberto Barausse, Carlos M. Duarte, Jenny Booth, Susana Agusti, Vincent Saderne, Andrea Anton, Daniele Daffonchio and Marco Fusi |
+| Published in?                | 4th September 2019 |
+| General topic?               | effects of hyperoxic environment on marine fauna and relation with the ocean warming |
+| Procedure/what was examined? | The researchers used probes to get a dataset of natural warming fluctuations during a year. With these dataset, they reproduced the same conditions to test some species living in coastal habitats of the Red Sea, the warmest of the world. They also examined the differne of resistance and recover capacity of *T.crenata* crabs in acute hypoxic episodes after a normoxic and a hyperoxic day. |
+| Conclusions/discovery?       | During the daytime, the temperature increases in phase with the oxygen concentration increases with a short lag. This correlation doesn't exist only in tropical waters but also in temperate and polar latitudes. During the heat peak, the survivability of the ectothermals increases in oxygen supersaturationed environment. Moreover, those who have supported a hyperoxic period are more resistant to a hypoxic episode and recovered quicker. Conclusion : The effective restoration and conservation of such coastal habitats is very important to limit the damage of the global warming. |
+| Remaining questions?         | none |
