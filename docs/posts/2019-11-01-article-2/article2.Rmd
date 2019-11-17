@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Source :
 
-URL of the article : (17 July 2019)
+URL of the article : (17th July 2019)
 (https://advances.sciencemag.org/content/5/7/eaaw4337)
 
 ## Vocabulary :

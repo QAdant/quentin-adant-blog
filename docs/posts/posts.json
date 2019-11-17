@@ -49,5 +49,22 @@
     ],
     "preview": "posts/2019-10-18-article-1/images/Seamount_Biodiversity.jpg",
     "last_modified": "2019-11-02T15:22:30+01:00"
+  },
+  {
+    "path": "posts/2019-11-17-article-3/",
+    "title": "Article 3 : ",
+    "description": {},
+    "author": [
+      {
+        "name": "Folco Giomi, Alberto Barausse, Carlos M. Duarte, Jenny Booth, Susana Agusti, Vincent Saderne, Andrea Anton, Daniele Daffonchio and Marco Fusi",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-04",
+    "categories": [
+      "track"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-17T12:35:24+01:00"
   }
 ]

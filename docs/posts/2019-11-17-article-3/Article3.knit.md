@@ -11,16 +11,14 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ![commentimage](imagelink)
 
 ## Source :
 
-URL of the article : (4th September 2019)
-(https://advances.sciencemag.org/content/5/9/eaax1814)
+URL of the article : (12 September 2019)
+(link)
 
 ## Vocabulary :
 
@@ -33,8 +31,6 @@ URL of the article : (4th September 2019)
 | ectotherm (animal) | cold-blooded animal | animal à sang froid |
 | lagged | showing a delayed effect. | en retard |
 | meadow | field | prairie |
-| normoxic |  |  |
-| depletion | reduction in the number or quantity of something. | épuisement / réduction |
 | 
 
 ## Analysis :
