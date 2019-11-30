@@ -1,0 +1,45 @@
+---
+title: "Article 4 :"
+author:
+  - name: Peter Convey and Lloyd S. Peck
+date: 11-27-2019
+categories:
+  - track
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![commentimage](imagelink)
+
+## Source :
+
+URL of the article : (27 Nov. 2019)
+(https://advances.sciencemag.org/content/5/11/eaaz0888)
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+| biota |  |  |
+
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |                                                        |
+| General topic?               |     |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
+
+
+
