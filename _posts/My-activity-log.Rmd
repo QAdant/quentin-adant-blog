@@ -20,6 +20,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -22 October 2019 : From now on, I will watch all the films I have already seen in English. Actually, I have been doing it for a long time now...
 
+-12 November 2019 : From now on, I watch some youtube videos of english-native people.
+
+-8 December 2019 : I've watched the whole "Harry Potter" films. 
+
 
 
 
