@@ -1,0 +1,45 @@
+---
+title: "Article 5 :"
+author:
+  - name: Adant Quentin
+date: 
+categories:
+  - track
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+(**Do not build website this**)
+
+![commentimage](imagelink)
+
+## Source :
+
+URL of the article : (02 December 2019)
+(https://www.sciencedaily.com/releases/2019/12/191202081641.htm)
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |                                                        |
+| General topic?               |     |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
+
+
+
