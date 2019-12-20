@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2019-12-12-article-5/",
-    "title": "Article 5 :",
+    "title": "Article 5 : Parrotfish, the 'ecosystem engineers' of the reef",
     "description": {},
     "author": [
       {
@@ -9,12 +9,12 @@
         "url": {}
       }
     ],
-    "date": "2019-12-12",
+    "date": "2019-12-20",
     "categories": [
       "track"
     ],
-    "preview": {},
-    "last_modified": "2019-12-12T11:27:01+01:00"
+    "preview": "posts/2019-12-12-article-5/pictures/parrotfish1.jpg",
+    "last_modified": "2019-12-20T16:23:01+01:00"
   },
   {
     "path": "posts/2019-11-30-article-4/",
