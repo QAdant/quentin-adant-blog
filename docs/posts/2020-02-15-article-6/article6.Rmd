@@ -1,0 +1,44 @@
+---
+title: "Article 6 : The Australian Fires Impacts On Marine Ecosystem"
+author:
+  - name: Adant Quentin
+date: 02-02-2020
+categories:
+  - track
+preview: pictures/Australian_Wildfires.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![[a burning Australian forest](https://www.google.be/url?sa=i&url=https%3A%2F%2Finterestingengineering.com%2F7-of-the-most-destructive-wildfires-in-australian-history&psig=AOvVaw3Fi_a0cshKEMVpqtPIy7tg&ust=1581951079274000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDN3ZKp1ucCFQAAAAAdAAAAABAE)](pictures/Australian_Wildfires.jpg)
+
+## Source :
+
+URL of the article : (02 February 2020)
+(https://www.scientificamerican.com/article/australias-marine-animals-will-be-bushfires-unseen-victims/)
+
+## Vocabulary :
+
+| Word from text | Synonym/definition | French translation |
+|----------------|--------------------|--------------------|
+| silt | material carried by running water and deposited as sediment | limon / vase |
+| drought | long period without rainfall | sécheresse |
+| gill | the respiratory organ of fishes and other aquatic animals. | branchie |
+| slurry | a semi-liquid mixture | lisier |
+
+## Analysis :
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Adrian Meder, Leonardo Guida |
+| Published in?                | 02 February 2020 |
+| General topic?               | The invisible impact of the fires that put Australia in ashes. |
+| Procedure/what was examined? | how the marine ecosystem responds to the arrival of the first rainfall. |
+| Conclusions/discovery?       | The rain brings silt and ash to freshwater and sea. That put the waters under shadow so plants consume oxygen that other life being needs. Moreover, some areas are very important for some species (birth places, etc.) |
+
