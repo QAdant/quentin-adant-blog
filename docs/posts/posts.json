@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-15-article-6/",
+    "title": "Article 6 : The Australian Fires Impacts On Marine Ecosystem",
+    "description": {},
+    "author": [
+      {
+        "name": "Adant Quentin",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-02",
+    "categories": [
+      "track"
+    ],
+    "preview": "posts/2020-02-15-article-6/pictures/Australian_Wildfires.jpg",
+    "last_modified": "2020-02-16T15:57:51+01:00"
+  },
+  {
     "path": "posts/2019-12-12-article-5/",
     "title": "Article 5 : Parrotfish, the 'ecosystem engineers' of the reef",
     "description": {},
