@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -8 December 2019 : I've watched the whole "Harry Potter" films. 
 
-
+-15 February 2020 : I watched the film 1917 in IMAX.
 
 
 
